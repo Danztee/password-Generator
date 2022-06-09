@@ -1,3 +1,3 @@
 # password-generator
 
-The codes to the password generator app
+The code to the password generator app
